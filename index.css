@@ -1,0 +1,24 @@
+#ground{
+    position:
+	absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+#sizebar{
+	width: 100;
+	display: inline-block;
+}
+
+#well{
+	width: 855;
+}
+#innerwell{
+	width: 250;
+	height: 10px;
+	margin: 10px;
+}
